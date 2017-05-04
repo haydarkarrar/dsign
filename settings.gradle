@@ -1,0 +1,2 @@
+include ':app'
+include ':libs:spongycastle-r1rv49'
